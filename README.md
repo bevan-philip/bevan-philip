@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hello 👋, I'm Bevan Philip, a full-stack developer based in the UK.
 
+I'm currently a full-time software engineer at Software AG, working on Apama Streaming Analytics.
+
+Below are a couple of the projects I've made over the years. 
 <!--
 **arrivance/arrivance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
