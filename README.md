@@ -1,4 +1,4 @@
-### Hello 👋, I'm Bevan Philip, a full-stack developer based in the UK.
+### Hello 👋, I'm Bevan Philip, a software engineer based in the UK.
 
 I'm currently a full-time software engineer at Software AG, working on Apama Streaming Analytics.
 
