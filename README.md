@@ -1,6 +1,6 @@
 ### Hello 👋, I'm Bevan Philip, a software engineer based in the UK.
 
-I'm currently a full-time software engineer at Cumulocity, working on Apama Streaming Analytics.
+I'm currently a full-time software engineer at Zopa Bank, working on Open Banking, and LLM-based technologies to improve the banking experience.
 
 Below are a couple of the projects I've made over the years. 
 <!--
